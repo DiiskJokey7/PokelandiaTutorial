@@ -1,0 +1,11 @@
+name: PokeLandiaTutorial
+description: Tutorial sobre pixelmon
+version: 1.0
+main: br.com.diiskjokey.diiskpl.Main
+authors: [Diiskjokey]
+commands:
+  helds:
+    description: Tutorial sobre os held items
+  moveset:
+    description: Tutorial sobre os movesets
+
